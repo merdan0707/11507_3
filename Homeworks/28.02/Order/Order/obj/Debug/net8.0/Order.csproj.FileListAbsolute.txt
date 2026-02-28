@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\bin\Debug\net8.0\Order.exe
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\bin\Debug\net8.0\Order.deps.json
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\bin\Debug\net8.0\Order.runtimeconfig.json
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\bin\Debug\net8.0\Order.dll
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\bin\Debug\net8.0\Order.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.AssemblyInfo.cs
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.dll
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\refint\Order.dll
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\Order.genruntimeconfig.cache
+C:\Users\User\Desktop\11507_3\Homeworks\28.02\Order\Order\obj\Debug\net8.0\ref\Order.dll
