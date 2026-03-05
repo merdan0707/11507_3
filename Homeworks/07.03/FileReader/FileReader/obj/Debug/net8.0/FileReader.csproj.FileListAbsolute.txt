@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\bin\Debug\net8.0\FileReader.exe
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\bin\Debug\net8.0\FileReader.deps.json
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\bin\Debug\net8.0\FileReader.runtimeconfig.json
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\bin\Debug\net8.0\FileReader.dll
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\bin\Debug\net8.0\FileReader.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.AssemblyInfo.cs
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.sourcelink.json
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.dll
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\refint\FileReader.dll
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\FileReader.genruntimeconfig.cache
+C:\Users\User\Desktop\11507_3\Homeworks\07.03\FileReader\FileReader\obj\Debug\net8.0\ref\FileReader.dll

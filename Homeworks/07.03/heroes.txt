@@ -1,0 +1,8 @@
+Name;Strength;Agility;Intelligence
+Axe;25;20;18
+Juggernaut;20;34;14
+CrystalMaiden;16;16;26
+Pudge;25;14;16
+AntiMage;21;34;12
+ShadowFiend;19;27;23
+Invoker;14;14;27
