@@ -6,14 +6,6 @@ public class Hero
     public int Strength { get; set; }
     public int Agility { get; set; }
     public int Intelligence { get; set; }
-    
-    // public Hero(string name, int strength, int agility, int intelligence)
-    // {
-    //     Name = name;
-    //     Strength = strength;
-    //     Agility = agility;
-    //     Intelligence = intelligence;
-    // }
 
     public override string ToString()
     {

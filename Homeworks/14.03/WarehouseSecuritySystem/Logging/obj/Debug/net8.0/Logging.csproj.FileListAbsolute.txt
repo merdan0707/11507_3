@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\bin\Debug\net8.0\Logging.exe
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\bin\Debug\net8.0\Logging.deps.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\bin\Debug\net8.0\Logging.runtimeconfig.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\bin\Debug\net8.0\Logging.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\bin\Debug\net8.0\Logging.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.AssemblyInfo.cs
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.sourcelink.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\refint\Logging.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\Logging.genruntimeconfig.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\Logging\obj\Debug\net8.0\ref\Logging.dll

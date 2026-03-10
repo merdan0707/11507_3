@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\bin\Debug\net8.0\NotificationChain.exe
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\bin\Debug\net8.0\NotificationChain.deps.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\bin\Debug\net8.0\NotificationChain.runtimeconfig.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\bin\Debug\net8.0\NotificationChain.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\bin\Debug\net8.0\NotificationChain.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.AssemblyInfo.cs
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.sourcelink.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\refint\NotificationChain.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\NotificationChain.genruntimeconfig.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\NotificationChain\obj\Debug\net8.0\ref\NotificationChain.dll

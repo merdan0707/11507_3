@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\bin\Debug\net8.0\WarehouseSecuritySystem.exe
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\bin\Debug\net8.0\WarehouseSecuritySystem.deps.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\bin\Debug\net8.0\WarehouseSecuritySystem.runtimeconfig.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\bin\Debug\net8.0\WarehouseSecuritySystem.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\bin\Debug\net8.0\WarehouseSecuritySystem.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.AssemblyInfo.cs
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.sourcelink.json
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\refint\WarehouseSecuritySystem.dll
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\WarehouseSecuritySystem.genruntimeconfig.cache
+C:\Users\User\Desktop\11507_3\Homeworks\14.03\WarehouseSecuritySystem\WarehouseSecuritySystem\obj\Debug\net8.0\ref\WarehouseSecuritySystem.dll
