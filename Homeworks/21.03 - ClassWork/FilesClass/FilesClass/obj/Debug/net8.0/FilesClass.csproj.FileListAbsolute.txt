@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\bin\Debug\net8.0\FilesClass.exe
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\bin\Debug\net8.0\FilesClass.deps.json
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\bin\Debug\net8.0\FilesClass.runtimeconfig.json
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\bin\Debug\net8.0\FilesClass.dll
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\bin\Debug\net8.0\FilesClass.pdb
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.AssemblyInfo.cs
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.sourcelink.json
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.dll
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\refint\FilesClass.dll
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.pdb
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\FilesClass.genruntimeconfig.cache
+C:\Users\User\Desktop\temprory\11507_3\Homeworks\21.03 - ClassWork\FilesClass\FilesClass\obj\Debug\net8.0\ref\FilesClass.dll
