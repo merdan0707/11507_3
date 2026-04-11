@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\bin\Debug\net8.0\Process.exe
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\bin\Debug\net8.0\Process.deps.json
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\bin\Debug\net8.0\Process.runtimeconfig.json
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\bin\Debug\net8.0\Process.dll
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\bin\Debug\net8.0\Process.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.AssemblyInfo.cs
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.sourcelink.json
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.dll
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\refint\Process.dll
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.pdb
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\Process.genruntimeconfig.cache
+C:\Users\User\Desktop\11507_3\Homeworks\11.04\AnalyzingGiantData\Process\obj\Debug\net8.0\ref\Process.dll
