@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\bin\Debug\net10.0\ReflectionClass.exe
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\bin\Debug\net10.0\ReflectionClass.deps.json
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\bin\Debug\net10.0\ReflectionClass.runtimeconfig.json
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\bin\Debug\net10.0\ReflectionClass.dll
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\bin\Debug\net10.0\ReflectionClass.pdb
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.AssemblyInfo.cs
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.sourcelink.json
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.dll
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\refint\ReflectionClass.dll
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.pdb
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ReflectionClass.genruntimeconfig.cache
+C:\Users\User\Desktop\Classes1c2s\Classes1c2s\ReflectionClass\obj\Debug\net10.0\ref\ReflectionClass.dll
